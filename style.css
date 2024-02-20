@@ -1,0 +1,14 @@
+.canvasboard{
+    width: 70%;
+    height:500px;
+}
+body{
+    display: grid;
+    
+}
+
+button{
+    width: 100px;
+    
+
+}
